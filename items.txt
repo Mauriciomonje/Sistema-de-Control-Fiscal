@@ -1,0 +1,11 @@
+Funciones
+- Ingresar números de orden del padrón electoral
+- Mostrar los ultimos 5 numeros de ordenes ingresados
+    - Marcar el numero de orden que se encuentre votando dentro de los ultimos 5 numeros igresados
+    - Poder eliminar algun número de orden mal ingresados
+- Contador de números de ordenes ingresados
+- Boton de ingresar numero de orden o utilizar el keypress para el enter
+- Botón de finalizar ingresados
+    - Debe mostrar los números de orden listados de menor a mayor
+    - Mostrar la cantidad de votantes
+
